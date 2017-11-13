@@ -7,7 +7,8 @@
     "express": "^4.16.2",
     "jquery": "^3.2.1",
     "node-phantom": "^0.2.5",
-    "phantomjs": "1.9.8"
+    "phantomjs": "1.9.8",
+    "node-uuid": "1.4.8"
   },
   "devDependencies": {},
   "scripts": {
